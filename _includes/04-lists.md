@@ -1,3 +1,3 @@
-Laptop
-Mobile
-Wifi
+[list]Laptop
+[list]Mobile
+[list]Wifi
